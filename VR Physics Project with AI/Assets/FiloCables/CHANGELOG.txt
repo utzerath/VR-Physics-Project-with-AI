@@ -1,0 +1,48 @@
+# Change Log
+All notable changes to “Filo - The cable simulator” will be documented in this file.
+
+## [1.5]
+
+### Changed
+- Moved cable rendering parameters to CableRenderer component.
+
+### Added
+- CableRenderer now has additional parameters to control cable mesh quality/amount of edge loops. 
+- Adjustable cable mesh edge loop spacing in discs.
+
+## [1.4]
+
+### Added
+- Support for arbitrary planes in cable bodies.
+
+### Fixed
+-Bug in XZ plane handedness, which caused incorrect link orientation in cable splitting operations.
+
+
+## [1.3]
+
+### Added
+- All links now have a "slack" attribute that lets you add extra cable between that link and the following one.
+Useful when you don't want the cable to start completely tensed up.
+
+## [1.2]
+
+### Added
+- Added "Joints" property to Cable class, lets you get a readonly list of all joints in the cable.
+- You can now query per-joint strain, jacobian and impulse magnitudes.
+
+### Changed
+- Capped the spools' amount of stored cable in editor to be >= 0.
+
+### Fixed
+- Initialization bug in spools (Hybrid links) that caused the visual appearance of spools in editor and their initial behavior at runtime.
+
+## [1.1]
+
+### Added
+- Dynamic joint merge/split system. This results in cables that can generate and remove contacts with new bodies at runtime.
+- Attachment links can now generate/consume cable dynamically. This allows to change the cable rest length at runtime.
+
+
+## [1.0.0]
+- Initial release.
