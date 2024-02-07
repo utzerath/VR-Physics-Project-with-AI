@@ -42,10 +42,10 @@ This Virtual Reality Gym with AI Personal Trainer is made available under a cust
 
 This Virtual Reality Gym with AI Personal Trainer was collaboratively developed by:
 
-- **[Hunter Jenkins]**: Co-developer focused on [specific aspects, e.g., AI integration, user experience design, workout programming]. 
+- **[Hunter Jenkins]**: Co-developer focused on AI integration, user interaction design, and physics simulations.
   
-- **[Jack Utzerath]**: Co-developer responsible for [specific aspects, e.g., VR environment creation, physics simulations, user interaction design].
-- 
+- **[Jack Utzerath]**: Co-developer responsible for VR environment creation, physics simulations, learning experience].
+
 We are deeply grateful for each other's creativity and hard work, which were pivotal in transforming vision into reality.
 
 ### Packages and Libraries Used
