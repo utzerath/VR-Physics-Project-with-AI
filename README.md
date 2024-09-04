@@ -3,6 +3,13 @@
 ## Overview
 
 Welcome to the Virtual Reality Gym with AI Personal Trainer, an immersive fitness experience designed specifically for the Oculus platform. This project leverages the power of Unity to create an engaging environment where users are guided through their workouts by an intelligent AI trainer. As participants engage in various workouts, they will delve into the fascinating world of physics, uncovering the principles of tension, gravity, pulley systems, and more. The core mission of this application is to equip users with the confidence and knowledge to perform basic gym exercises, and to enlighten them about the scientific principles underpinning these activities. By bridging the gap between physical fitness and education, we aim to empower individuals to approach real-world workouts with comfort and understanding. Improving their physical health in the long run.
+
+##Article
+
+Article published by GCU discussing the project.
+
+https://news.gcu.edu/gcu-news/virtual-reality-gym-sandbox-pirate-ship-projects-a-treasure/
+
 ## Features
 
 - **Immersive VR Environment**: Experience a fully-realized gym setting within the comfort of your own home, designed to keep you motivated and focused.
